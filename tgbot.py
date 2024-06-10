@@ -7,8 +7,8 @@ import os
 from downloader import download_video
 
 #telegram bot details
-TOKEN: Final= "7399519009:AAFpSSS7BBpF_PRxAQkHd75HcouWytJq0_U"
-BOT_USERNAME: Final = "@KOS_YT_ARCHbot"
+TOKEN: Final= "Enter telegram Bot key"
+BOT_USERNAME: Final = "Enter telegram bo username"
 
 #Bot functions
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
