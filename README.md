@@ -95,6 +95,5 @@ python tgbot.py
 ## Contributing
 This project is intended for personal use. Contributions are not expected, but feel free to fork the repository and modify it for your needs.
 
-## License
-This project is licensed under the  License.
+
 
